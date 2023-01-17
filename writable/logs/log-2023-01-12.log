@@ -1,0 +1,787 @@
+CRITICAL - 2023-01-12 06:22:28 --> Call to a member function unset_userdata() on null
+in APPPATH/Controllers/SigninController.php on line 47.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SigninController->logout()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 06:25:11 --> Call to a member function unset_userdata() on null
+in APPPATH/Controllers/SigninController.php on line 47.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SigninController->logout()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 06:27:11 --> Call to a member function unset_userdata() on null
+in APPPATH/Controllers/SigninController.php on line 47.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SigninController->logout()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 06:27:17 --> Call to a member function unset_userdata() on null
+in APPPATH/Controllers/SigninController.php on line 47.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SigninController->logout()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 06:27:17 --> Call to a member function unset_userdata() on null
+in APPPATH/Controllers/SigninController.php on line 47.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SigninController->logout()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 06:27:26 --> Call to a member function sess_destroy() on null
+in APPPATH/Controllers/SigninController.php on line 48.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SigninController->logout()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 06:27:27 --> Call to a member function sess_destroy() on null
+in APPPATH/Controllers/SigninController.php on line 48.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SigninController->logout()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 06:27:27 --> Call to a member function sess_destroy() on null
+in APPPATH/Controllers/SigninController.php on line 48.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SigninController->logout()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 06:27:54 --> Call to a member function set_userdata() on null
+in APPPATH/Controllers/SigninController.php on line 49.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SigninController->logout()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 06:27:55 --> Call to a member function set_userdata() on null
+in APPPATH/Controllers/SigninController.php on line 49.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SigninController->logout()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 06:27:55 --> Call to a member function set_userdata() on null
+in APPPATH/Controllers/SigninController.php on line 49.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SigninController->logout()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 06:27:55 --> Call to a member function set_userdata() on null
+in APPPATH/Controllers/SigninController.php on line 49.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SigninController->logout()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 06:27:55 --> Call to a member function set_userdata() on null
+in APPPATH/Controllers/SigninController.php on line 49.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SigninController->logout()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 06:27:55 --> Call to a member function set_userdata() on null
+in APPPATH/Controllers/SigninController.php on line 49.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SigninController->logout()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 06:28:08 --> Call to a member function setFlashdata() on null
+in APPPATH/Controllers/SigninController.php on line 49.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SigninController->logout()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 06:28:08 --> Call to a member function setFlashdata() on null
+in APPPATH/Controllers/SigninController.php on line 49.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SigninController->logout()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 06:28:50 --> Call to a member function session_destroy() on null
+in APPPATH/Controllers/SigninController.php on line 50.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SigninController->logout()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 06:28:50 --> Call to a member function session_destroy() on null
+in APPPATH/Controllers/SigninController.php on line 50.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SigninController->logout()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 06:28:50 --> Call to a member function session_destroy() on null
+in APPPATH/Controllers/SigninController.php on line 50.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SigninController->logout()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 06:28:51 --> Call to a member function session_destroy() on null
+in APPPATH/Controllers/SigninController.php on line 50.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SigninController->logout()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 06:28:51 --> Call to a member function session_destroy() on null
+in APPPATH/Controllers/SigninController.php on line 50.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SigninController->logout()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 06:28:51 --> Call to a member function session_destroy() on null
+in APPPATH/Controllers/SigninController.php on line 50.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SigninController->logout()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 06:32:44 --> Call to a member function session_destroy() on null
+in APPPATH/Controllers/SingoutController.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SingoutController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 06:32:46 --> Call to a member function session_destroy() on null
+in APPPATH/Controllers/SingoutController.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SingoutController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 06:32:46 --> Call to a member function session_destroy() on null
+in APPPATH/Controllers/SingoutController.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SingoutController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 06:32:46 --> Call to a member function session_destroy() on null
+in APPPATH/Controllers/SingoutController.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SingoutController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 06:32:46 --> Call to a member function session_destroy() on null
+in APPPATH/Controllers/SingoutController.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SingoutController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 06:32:46 --> Call to a member function session_destroy() on null
+in APPPATH/Controllers/SingoutController.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SingoutController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 06:33:18 --> Call to a member function session_destroy() on null
+in APPPATH/Controllers/SingoutController.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SingoutController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 06:33:19 --> Call to a member function session_destroy() on null
+in APPPATH/Controllers/SingoutController.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SingoutController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 06:33:19 --> Call to a member function session_destroy() on null
+in APPPATH/Controllers/SingoutController.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SingoutController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 06:33:19 --> Call to a member function session_destroy() on null
+in APPPATH/Controllers/SingoutController.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SingoutController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 06:33:19 --> Call to a member function session_destroy() on null
+in APPPATH/Controllers/SingoutController.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SingoutController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 06:33:20 --> Call to a member function session_destroy() on null
+in APPPATH/Controllers/SingoutController.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SingoutController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 06:33:20 --> Call to a member function session_destroy() on null
+in APPPATH/Controllers/SingoutController.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SingoutController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 06:33:20 --> Call to a member function session_destroy() on null
+in APPPATH/Controllers/SingoutController.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SingoutController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 06:33:20 --> Call to a member function session_destroy() on null
+in APPPATH/Controllers/SingoutController.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SingoutController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 06:35:25 --> Cannot call constructor
+in APPPATH/Controllers/ProfileController.php on line 9.
+ 1 SYSTEMPATH/CodeIgniter.php(906): App\Controllers\ProfileController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 06:35:28 --> Cannot call constructor
+in APPPATH/Controllers/ProfileController.php on line 9.
+ 1 SYSTEMPATH/CodeIgniter.php(906): App\Controllers\ProfileController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 06:35:31 --> Cannot call constructor
+in APPPATH/Controllers/ProfileController.php on line 9.
+ 1 SYSTEMPATH/CodeIgniter.php(906): App\Controllers\ProfileController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 06:36:36 --> Call to a member function set_flashdata() on null
+in APPPATH/Controllers/ProfileController.php on line 22.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 06:36:37 --> Call to a member function set_flashdata() on null
+in APPPATH/Controllers/ProfileController.php on line 22.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 06:36:37 --> Call to a member function set_flashdata() on null
+in APPPATH/Controllers/ProfileController.php on line 22.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 06:36:37 --> Call to a member function set_flashdata() on null
+in APPPATH/Controllers/ProfileController.php on line 22.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 06:36:37 --> Call to a member function set_flashdata() on null
+in APPPATH/Controllers/ProfileController.php on line 22.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 06:38:42 --> Call to a member function library() on null
+in APPPATH/Controllers/SingoutController.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SingoutController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 06:38:44 --> Call to a member function library() on null
+in APPPATH/Controllers/SingoutController.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SingoutController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 06:38:44 --> Call to a member function library() on null
+in APPPATH/Controllers/SingoutController.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SingoutController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 06:38:45 --> Call to a member function library() on null
+in APPPATH/Controllers/SingoutController.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SingoutController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 06:40:05 --> Call to a member function destroy() on null
+in APPPATH/Controllers/SingoutController.php on line 19.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SingoutController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 06:40:14 --> Call to a member function destroy() on null
+in APPPATH/Controllers/SingoutController.php on line 19.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SingoutController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 06:40:14 --> Call to a member function destroy() on null
+in APPPATH/Controllers/SingoutController.php on line 19.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SingoutController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 06:40:15 --> Call to a member function destroy() on null
+in APPPATH/Controllers/SingoutController.php on line 19.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SingoutController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 06:40:15 --> Call to a member function destroy() on null
+in APPPATH/Controllers/SingoutController.php on line 19.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SingoutController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 06:40:55 --> Call to a member function destroy() on null
+in APPPATH/Controllers/SingoutController.php on line 19.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SingoutController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 06:40:56 --> Call to a member function destroy() on null
+in APPPATH/Controllers/SingoutController.php on line 19.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SingoutController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 06:40:56 --> Call to a member function destroy() on null
+in APPPATH/Controllers/SingoutController.php on line 19.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SingoutController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 06:40:56 --> Call to a member function destroy() on null
+in APPPATH/Controllers/SingoutController.php on line 19.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SingoutController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 06:41:06 --> Call to a member function sess_destroy() on null
+in APPPATH/Controllers/SingoutController.php on line 16.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SingoutController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 06:41:07 --> Call to a member function sess_destroy() on null
+in APPPATH/Controllers/SingoutController.php on line 16.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SingoutController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 06:41:07 --> Call to a member function sess_destroy() on null
+in APPPATH/Controllers/SingoutController.php on line 16.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SingoutController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 06:41:07 --> Call to a member function sess_destroy() on null
+in APPPATH/Controllers/SingoutController.php on line 16.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SingoutController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 06:41:07 --> Call to a member function sess_destroy() on null
+in APPPATH/Controllers/SingoutController.php on line 16.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SingoutController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 06:41:07 --> Call to a member function sess_destroy() on null
+in APPPATH/Controllers/SingoutController.php on line 16.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SingoutController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 06:41:08 --> Call to a member function sess_destroy() on null
+in APPPATH/Controllers/SingoutController.php on line 16.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SingoutController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 06:41:08 --> Call to a member function sess_destroy() on null
+in APPPATH/Controllers/SingoutController.php on line 16.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SingoutController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 06:41:43 --> Call to a member function sess_destroy() on null
+in APPPATH/Controllers/SingoutController.php on line 16.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SingoutController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 06:52:17 --> Call to a member function get() on null
+in APPPATH/Controllers/SingoutController.php on line 23.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SingoutController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 06:52:17 --> Call to a member function get() on null
+in APPPATH/Controllers/SingoutController.php on line 23.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SingoutController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 06:54:37 --> Call to a member function sess_destroy() on null
+in APPPATH/Controllers/SingoutController.php on line 12.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SingoutController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 06:54:37 --> Call to a member function sess_destroy() on null
+in APPPATH/Controllers/SingoutController.php on line 12.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SingoutController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 06:54:37 --> Call to a member function sess_destroy() on null
+in APPPATH/Controllers/SingoutController.php on line 12.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SingoutController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 06:54:37 --> Call to a member function sess_destroy() on null
+in APPPATH/Controllers/SingoutController.php on line 12.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SingoutController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 06:54:38 --> Call to a member function sess_destroy() on null
+in APPPATH/Controllers/SingoutController.php on line 12.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SingoutController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 06:54:38 --> Call to a member function sess_destroy() on null
+in APPPATH/Controllers/SingoutController.php on line 12.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SingoutController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 06:54:38 --> Call to a member function sess_destroy() on null
+in APPPATH/Controllers/SingoutController.php on line 12.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SingoutController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 06:54:38 --> Call to a member function sess_destroy() on null
+in APPPATH/Controllers/SingoutController.php on line 12.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SingoutController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 06:54:38 --> Call to a member function sess_destroy() on null
+in APPPATH/Controllers/SingoutController.php on line 12.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SingoutController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 07:00:08 --> Call to a member function remove() on null
+in APPPATH/Controllers/SingoutController.php on line 12.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SingoutController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 07:00:40 --> Call to a member function remove() on null
+in APPPATH/Controllers/SingoutController.php on line 12.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SingoutController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 07:00:40 --> Call to a member function remove() on null
+in APPPATH/Controllers/SingoutController.php on line 12.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SingoutController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 07:00:40 --> Call to a member function remove() on null
+in APPPATH/Controllers/SingoutController.php on line 12.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SingoutController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 07:00:40 --> Call to a member function remove() on null
+in APPPATH/Controllers/SingoutController.php on line 12.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SingoutController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 07:00:41 --> Call to a member function remove() on null
+in APPPATH/Controllers/SingoutController.php on line 12.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SingoutController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 07:00:41 --> Call to a member function remove() on null
+in APPPATH/Controllers/SingoutController.php on line 12.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SingoutController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 07:00:41 --> Call to a member function remove() on null
+in APPPATH/Controllers/SingoutController.php on line 12.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SingoutController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 07:00:41 --> Call to a member function remove() on null
+in APPPATH/Controllers/SingoutController.php on line 12.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SingoutController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 07:00:41 --> Call to a member function remove() on null
+in APPPATH/Controllers/SingoutController.php on line 12.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SingoutController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 07:02:57 --> Call to a member function remove() on null
+in APPPATH/Controllers/SingoutController.php on line 12.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SingoutController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 07:02:58 --> Call to a member function remove() on null
+in APPPATH/Controllers/SingoutController.php on line 12.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SingoutController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 07:02:58 --> Call to a member function remove() on null
+in APPPATH/Controllers/SingoutController.php on line 12.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SingoutController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 07:02:58 --> Call to a member function remove() on null
+in APPPATH/Controllers/SingoutController.php on line 12.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SingoutController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 09:10:44 --> Call to a member function view() on null
+in APPPATH/Controllers/SignupController.php on line 41.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SignupController->store()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 09:11:03 --> Call to a member function view() on null
+in APPPATH/Controllers/SignupController.php on line 41.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SignupController->store()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 10:12:59 --> Call to a member function where() on null
+in APPPATH/Controllers/SendEmail.php on line 17.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SendEmail->SendMailpush()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 10:13:32 --> Call to a member function post() on null
+in APPPATH/Controllers/SendEmail.php on line 16.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SendEmail->SendMailpush()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 10:15:02 --> Call to a member function where() on null
+in APPPATH/Controllers/SendEmail.php on line 16.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SendEmail->SendMailpush()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 10:15:07 --> Call to a member function where() on null
+in APPPATH/Controllers/SendEmail.php on line 16.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SendEmail->SendMailpush()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 10:15:15 --> Call to a member function where() on null
+in APPPATH/Controllers/SendEmail.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SendEmail->SendMailpush()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 10:15:19 --> Call to a member function where() on null
+in APPPATH/Controllers/SendEmail.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SendEmail->SendMailpush()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 10:25:49 --> Call to a member function setFlashdata() on null
+in APPPATH/Controllers/SendEmail.php on line 24.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SendEmail->SendMailpush()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 10:26:25 --> Call to a member function setFlashdata() on null
+in APPPATH/Controllers/SendEmail.php on line 24.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SendEmail->SendMailpush()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+ERROR - 2023-01-12 10:32:02 --> mysqli_sql_exception: Unknown column 'digiprima' in 'where clause' in /var/www/html/CodeIgniter/appstarter/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /var/www/html/CodeIgniter/appstarter/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /var/www/html/CodeIgniter/appstarter/vendor/codeigniter4/framework/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/html/CodeIgniter/appstarter/vendor/codeigniter4/framework/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/html/CodeIgniter/appstarter/vendor/codeigniter4/framework/system/Database/BaseBuilder.php(2461): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/html/CodeIgniter/appstarter/app/Controllers/SendEmail.php(24): CodeIgniter\Database\BaseBuilder->update()
+#5 /var/www/html/CodeIgniter/appstarter/vendor/codeigniter4/framework/system/CodeIgniter.php(934): App\Controllers\SendEmail->SendMailpush()
+#6 /var/www/html/CodeIgniter/appstarter/vendor/codeigniter4/framework/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#7 /var/www/html/CodeIgniter/appstarter/vendor/codeigniter4/framework/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#8 /var/www/html/CodeIgniter/appstarter/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#9 /var/www/html/CodeIgniter/appstarter/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(47): require_once('/var/www/html/C...')
+#10 {main}
+CRITICAL - 2023-01-12 10:32:02 --> Unknown column 'digiprima' in 'where clause'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2461): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Controllers/SendEmail.php(24): CodeIgniter\Database\BaseBuilder->update()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SendEmail->SendMailpush()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+ERROR - 2023-01-12 10:32:30 --> mysqli_sql_exception: Unknown column 'digiprima' in 'where clause' in /var/www/html/CodeIgniter/appstarter/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /var/www/html/CodeIgniter/appstarter/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /var/www/html/CodeIgniter/appstarter/vendor/codeigniter4/framework/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/html/CodeIgniter/appstarter/vendor/codeigniter4/framework/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/html/CodeIgniter/appstarter/vendor/codeigniter4/framework/system/Database/BaseBuilder.php(2461): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/html/CodeIgniter/appstarter/app/Controllers/SendEmail.php(24): CodeIgniter\Database\BaseBuilder->update()
+#5 /var/www/html/CodeIgniter/appstarter/vendor/codeigniter4/framework/system/CodeIgniter.php(934): App\Controllers\SendEmail->SendMailpush()
+#6 /var/www/html/CodeIgniter/appstarter/vendor/codeigniter4/framework/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#7 /var/www/html/CodeIgniter/appstarter/vendor/codeigniter4/framework/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#8 /var/www/html/CodeIgniter/appstarter/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#9 /var/www/html/CodeIgniter/appstarter/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(47): require_once('/var/www/html/C...')
+#10 {main}
+CRITICAL - 2023-01-12 10:32:30 --> Unknown column 'digiprima' in 'where clause'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2461): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Controllers/SendEmail.php(24): CodeIgniter\Database\BaseBuilder->update()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SendEmail->SendMailpush()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 10:44:16 --> Use of undefined constant name - assumed 'name' (this will throw an Error in a future version of PHP)
+in APPPATH/Controllers/SendEmail.php on line 28.
+ 1 APPPATH/Controllers/SendEmail.php(28): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SendEmail->SendMailpush()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 10:53:47 --> Call to undefined method CodeIgniter\Email\Email::IsHTML()
+in APPPATH/Controllers/SendEmail.php on line 37.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SendEmail->SendMailpush()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 12:05:30 --> Call to a member function setFlashdata() on null
+in APPPATH/Controllers/SignupController.php on line 38.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SignupController->store()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-01-12 12:06:08 --> Call to a member function setFlashdata() on null
+in APPPATH/Controllers/SignupController.php on line 38.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\SignupController->store()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
